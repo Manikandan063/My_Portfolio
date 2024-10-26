@@ -246,7 +246,9 @@ h1{
   padding: 2em;
   position: relative;
 }
-
+#education{
+    padding-top:80px;
+}
 .education::before {
   content: '';
   background: #dae1ec;
@@ -399,6 +401,7 @@ h1{
     text-align: center;
     background-color: #dae1ec;
     font-family: "Afacad Flux", sans-serif;
+    padding-top:150px;
   }
   .section-p1 {
     font-size: 25px;
@@ -516,6 +519,9 @@ h1{
     align-items: center;
     background: #dae1ec;
   }
+#project{
+    paddind-top:150px
+}
   .pro_container{
     position: relative;
     width: 1100px;
